@@ -1,0 +1,148 @@
+body{
+    background-color:rgb(240, 240, 240);
+    background-image: url('cbg.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+
+.title{
+padding-left: 3em;
+    font-size: x-large;
+   font-style: arial;
+ 
+  
+  
+   padding-left: 10px;
+   padding-top: 2em;
+   padding-right: 10px;
+  
+ 
+    
+}
+.title a{
+    color: greenyellow;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display:flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title h1{
+    display: flex;
+    justify-content: space-evenly;
+    color:greenyellow;
+    margin-bottom: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+ .title a:hover {
+    color:white;
+}
+.title hr {
+   
+ opacity:1;
+ margin-right: 200px;
+ margin-left:200px;
+}
+.title img{
+   border:solid 4px rgb(84, 206, 206);
+    border-radius: 100px;
+   display: flex;
+    justify-content: center;
+    margin-left: 555px;
+    margin-bottom: 30px;
+}
+ .title img:hover{
+    border:4px solid darkcyan;
+}
+#project{
+    color:black;
+  
+    
+    background-color: white;
+padding-bottom: 200px;
+}
+
+#project img{
+    margin:20px;
+    display:flex;
+    justify-content: center;
+    border:solid;
+    box-shadow: 10px, 10px,5px,grey;
+    margin-left: 40px;
+}
+#project h1{
+    display:flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ 
+
+#project h2{
+    margin-left:50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#project p{
+    opacity:1;
+    margin-left:40px;
+    margin-left: 50px;
+    background-color: rgb(240, 240, 240);
+    padding: 3em;
+    margin-right:400px;
+    margin-bottom: 40px;
+
+   
+}
+#project p:hover  {
+    opacity:1;
+   margin-left: 60px;
+    box-shadow: 10px 10px 5px grey;
+}
+#project h1:hover{
+    text-shadow: 2px 2px 2px grey;
+}
+
+
+ #project h4{
+     color:rgb(105, 172, 5);
+     margin-left:40px;
+ } 
+ #project h3{
+     color:blue;
+     font-size: 20px;
+     margin-left:40px;
+ }  
+ #project h5{
+     color:purple;
+     font-size: 20px;
+     margin-left: 40px;
+ }
+
+#am{
+    display: flex;
+    justify-content: center;
+    color:black;
+    background-color: white;
+    padding-bottom: 200px;
+}
+#am a{
+    font-size: 20px;
+    text-decoration: none;
+    display:flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+.amh{
+    margin-top: 200px;
+    color:white;
+    display:flex;
+    justify-content: center;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
